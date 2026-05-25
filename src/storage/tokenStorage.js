@@ -1,13 +1,30 @@
+import { Platform } from "react-native";
 import * as SecureStore from "expo-secure-store";
 
+const TOKEN_KEY = "fordcare_token";
+
 export async function saveToken(token) {
-  await SecureStore.setItemAsync("token", token);
+  if (Platform.OS === "web") {
+    localStorage.setItem(TOKEN_KEY, token);
+    return;
+  }
+
+  await SecureStore.setItemAsync(TOKEN_KEY, token);
 }
 
 export async function getToken() {
-  return await SecureStore.getItemAsync("token");
+  if (Platform.OS === "web") {
+    return localStorage.getItem(TOKEN_KEY);
+  }
+
+  return await SecureStore.getItemAsync(TOKEN_KEY);
 }
 
 export async function removeToken() {
-  await SecureStore.deleteItemAsync("token");
+  if (Platform.OS === "web") {
+    localStorage.removeItem(TOKEN_KEY);
+    return;
+  }
+
+  await SecureStore.deleteItemAsync(TOKEN_KEY);
 }
