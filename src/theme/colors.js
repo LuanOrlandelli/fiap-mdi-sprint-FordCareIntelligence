@@ -1,5 +1,4 @@
 export const colors = {
-  // BRANDING FORD
   primary: "#0A3D91",
   primaryDark: "#071C3C",
   secondary: "#2D7FF9",
