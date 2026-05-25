@@ -350,43 +350,49 @@ npx expo start
 
 # 📱 Tela de Login
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 21 00 00" src="https://github.com/user-attachments/assets/bdd312ef-fe71-464d-9c22-1ac48b0be790" />
+
 
 ---
 
 # 📊 Dashboard Executivo
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 20 59 59 (1)" src="https://github.com/user-attachments/assets/ade45d93-9b29-4b1d-b125-165798737b0b" />
+
 
 ---
 
 # 👥 Gestão de Clientes
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 20 59 58 (2)" src="https://github.com/user-attachments/assets/b8bb3ecc-e1cd-4251-8e57-3bec488b5c37" />
+
 
 ---
 
 # 📄 Detalhe do Cliente
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 20 59 58 (1)" src="https://github.com/user-attachments/assets/638c9d63-b987-4325-9699-3cabca1d76cb" />
+
 
 ---
 
 # 🤖 IA Preditiva
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 20 59 57" src="https://github.com/user-attachments/assets/a2eaa4d7-e934-4f98-83a1-ae2674dd17ba" />
+
 
 ---
 
 # 📈 Gestão de Leads
 
-> Inserir print da tela.
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-24 at 20 59 57 (1)" src="https://github.com/user-attachments/assets/79481873-f692-40cb-ac9a-3039dd658816" />
 
 ---
 
 # 📚 Swagger / APIs REST
 
-> Inserir print do Swagger.
+<img width="1919" height="1032" alt="Captura de tela 2026-05-24 210558" src="https://github.com/user-attachments/assets/a5b43b7f-c9bc-4503-9e77-948778fe4d23" />
+
 
 ---
 
