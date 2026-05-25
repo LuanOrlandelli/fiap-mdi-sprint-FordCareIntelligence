@@ -10,7 +10,7 @@ import { colors } from "../theme/colors";
 
 export default function LoadingOverlay({
   visible,
-  text = "Processando informações...",
+  text = "Processando informações....",
 }) {
   if (!visible) return null;
 
