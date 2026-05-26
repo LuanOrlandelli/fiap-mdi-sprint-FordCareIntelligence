@@ -403,11 +403,11 @@ npx expo start
 
 [Clique aqui para acessar o vídeo de demonstração do aplicativo](https://drive.google.com/file/d/1WD-UlHRWJlGkXgsY7aqlc03sTucWAggk/view?usp=drive_link)
 
+
 ## Link do Pitch
 
-```txt
 [LINK DO VÍDEO](https://youtu.be/3EV5sKmCMv4)
-```
+
 
 ---
 
