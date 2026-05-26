@@ -406,7 +406,7 @@ npx expo start
 ## Link do Pitch
 
 ```txt
-INSERIR LINK DO VÍDEO
+[LINK DO VÍDEO](https://youtu.be/3EV5sKmCMv4)
 ```
 
 ---
