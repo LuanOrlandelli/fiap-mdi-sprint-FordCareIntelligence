@@ -285,7 +285,7 @@ Essa abordagem melhora:
 
 # 🚀 Como Rodar o Projeto
 
-##[Link do Projeto hospedado no Google Drive caso aconteça algum erro no repositório!](https://drive.google.com/drive/folders/1QcTbsf1jYTTBUdSYyRw9Wuc0dRlwIdxO?usp=sharing)
+[Link do Projeto hospedado no Google Drive caso aconteça algum erro no repositório!](https://drive.google.com/drive/folders/1QcTbsf1jYTTBUdSYyRw9Wuc0dRlwIdxO?usp=sharing)
 
 
 # 📱 Mobile
@@ -302,7 +302,7 @@ Essa abordagem melhora:
 ## Clone o projeto
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/LuanOrlandelli/fiap-mdi-sprint-FordCareIntelligence
 ```
 
 ---
