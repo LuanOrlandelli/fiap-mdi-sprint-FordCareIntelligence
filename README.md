@@ -401,6 +401,8 @@ npx expo start
 
 # 🎥 Demonstração em Vídeo
 
+[Clique aqui para acessar o vídeo de demonstração do aplicativo](https://drive.google.com/file/d/1WD-UlHRWJlGkXgsY7aqlc03sTucWAggk/view?usp=drive_link)
+
 ## Link do Pitch
 
 ```txt
